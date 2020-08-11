@@ -106,9 +106,9 @@ def simular_cenario_base(horizonte, matriz_de_pesos, definicao_conceitos, normal
     resultado = pd.DataFrame(cenario_desnormalizado, columns=nomes)
     #
     # ==================================================================================================================
-
     return resultado
 
+# teste GIT
 
 def simular_outros_cenario(horizonte,
                            matriz_de_pesos,
